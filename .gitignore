@@ -1,0 +1,10 @@
+# Computer junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Just in case someone adds npm later
+node_modules/
